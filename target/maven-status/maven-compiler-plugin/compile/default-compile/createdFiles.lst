@@ -1,0 +1,5 @@
+az\eh\reservation\controller\ReservationController.class
+az\eh\reservation\model\ReservationDTO.class
+az\eh\reservation\service\ReservationService.class
+az\eh\reservation\ReservationApplication.class
+az\eh\reservation\swagger\SwaggerConfig.class
